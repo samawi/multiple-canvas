@@ -11,6 +11,7 @@
         "r3f-pack": "^2.6.2",
         "react": "18.2.0",
         "react-dom": "18.2.0",
+        "react-use-refs": "^1.0.1",
         "three": "^0.160.0"
     },
     "scripts": {
